@@ -1,0 +1,18 @@
+modelos_eeuu = [
+    "Ford Mustang ",
+    "Ford GT ",
+    "Ford Shelby Cobra ",
+    "Chevrolet Corvette ",
+    "Chevrolet Camaro ",
+    "Chevrolet Chevelle SS ",
+    "Dodge Challenger ",
+    "Dodge Charger ",
+    "Dodge Viper ",
+    "Pontiac GTO ",
+    "Pontiac Firebird ",
+    "Buick Grand National GNX ",
+    "Cadillac CTS-V ",
+    "Shelby GT500 ",
+    "Hennessey Venom GT ",
+    "Saleen S7 "
+]

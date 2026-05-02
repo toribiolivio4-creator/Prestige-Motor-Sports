@@ -1,0 +1,15 @@
+modelos_italianos = [
+    "Ferrari 250 GTO ",
+    "Ferrari F40 ",
+    "Ferrari Enzo ",
+    "Lamborghini Miura ",
+    "Lamborghini Countach ",
+    "Lamborghini Diablo ",
+    "Lamborghini Huracán ",
+    "Maserati Ghibli ",
+    "Maserati MC12 ",
+    "Alfa Romeo Giulia Quadrifoglio ",
+    "Pagani Zonda ",
+    "Pagani Huayra ",
+    "Lancia Stratos "
+]

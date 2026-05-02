@@ -1,0 +1,16 @@
+modelos_alemanes = [
+    "Porsche 911 ",
+    "Porsche 918 Spyder ",
+    "Porsche Carrera GT ",
+    "Porsche Cayman ",
+    "BMW M1 ",
+    "BMW M3 ",
+    "BMW M4 ",
+    "BMW Z8 ",
+    "Mercedes-Benz 300SL Gullwing ",
+    "Mercedes-Benz SLS AMG ",
+    "Mercedes-AMG GT ",
+    "Audi Quattro ",
+    "Audi R8 ",
+    "Audi TT RS "
+]
